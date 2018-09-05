@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrugaSpirala</string>
+    <string name="hello_blank_fragment">Prazan fragment</string>
+    <string name="pretraga">pretraga</string>
+    <string name="kategorije">Kategorije</string>
+    <string name="autori">Autori</string>
+    <string name="Pretrazi">Pretrazi</string>
+    <string name="dodaj_knjigu">Dodaj knjigu</string>
+    <string name="dodaj_kategoriju">Dodaj kategoriju</string>
+    <string name="todo">todo</string>
+    <string name="naziv_knjige">Naziv knjige</string>
+    <string name="ime_autora">Ime autora</string>
+    <string name="tra_i_sliku">Trazi sliku</string>
+    <string name="poni_ti">Ponisti</string>
+    <string name="povratak">Povratak</string>
+    <string name="ime_i_prezime_autora">ImeiPrezime</string>
+    <string name="zaToast">Morate popuniti sve polja da biste dodali knjigu.</string>
+</resources>

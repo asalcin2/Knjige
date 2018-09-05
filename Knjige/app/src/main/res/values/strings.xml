@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SecondSpiral</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="pretraga">search</string>
+
+
+    <string name="kategorije">Categories</string>
+    <string name="autori">Authors</string>
+    <string name="Pretrazi">Search</string>
+    <string name="dodaj_knjigu">Add book</string>
+    <string name="dodaj_kategoriju">Add categories</string>
+    <string name="todo">todo</string>
+    <string name="naziv_knjige">Name of the book</string>
+    <string name="ime_autora">Name of author</string>
+    <string name="tra_i_sliku">Find picture</string>
+    <string name="poni_ti">Cancel</string>
+    <string name="povratak">Back</string>
+    <string name="ime_i_prezime_autora">Name of author</string>
+    <string name="zaToast">"You must fill in all the fields to add a book."</string>
+    <string name="recommend">Recommend</string>
+</resources>
